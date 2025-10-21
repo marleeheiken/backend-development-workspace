@@ -2,10 +2,10 @@
 
 **Name:** Marlee Heiken  
 **Course:** Backend Development
+**Purpose:** This repository serves as my **digital notebook** for backend development.  
 
 ##Overview of backend development workspace
-This repository serves as my **digital notebook** for backend development.  
-It will hold the projects I build, skills I develop, and resources I collect throughout the course.  
+This repo will hold the projects I build, skills I develop, and resources I collect throughout the course 
 
 ##Learning objectives for the course**
 Throught this course I am excited to learn how to:
