@@ -1,7 +1,9 @@
 # backend-development-workspace
 
 **Name:** Marlee Heiken  
+
 **Course:** Backend Development
+
 **Purpose:** This repository serves as my **digital notebook** for backend development.  
 
 ## Overview of backend development workspace
@@ -17,7 +19,7 @@ This repo will hold the projects I build, skills I develop, and resources I coll
 - Document APIs professionally and manage code with version control
 - Create applications that demonstrate enterprise-level backend capabilities
 
-##How I plan to use this repository throughout the semester
+## How I plan to use this repository throughout the semester
 Throughout the semester, I plan to store both my in progress and completed backend projects here
 I'll also maintain a learning-log.md file documenting my backend development goals
 and a resources.md file with useful backend development links I've discovered
