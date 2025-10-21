@@ -4,10 +4,10 @@
 **Course:** Backend Development
 **Purpose:** This repository serves as my **digital notebook** for backend development.  
 
-##Overview of backend development workspace
+## Overview of backend development workspace
 This repo will hold the projects I build, skills I develop, and resources I collect throughout the course 
 
-##Learning objectives for the course
+## Learning objectives for the course
 **Throught this course I am excited to learn how to:**
 - Build RESTful APIs using Node.js and Express.js with proper CRUD operations
 - Design relational databases with efficient relationships and data persistence
